@@ -1,1 +1,3 @@
-Insira seu resumo aqui!
+Na aula anterior, as orientadoras do programa "ELAS++" fizeram a introdução sobre o que será abordado dentro do periodo do programa.
+De forma mais clara, elas explicaram brevimente como funciona os sites, de como funciona a internet, de como funciona a parte da programação do site,
+da parte mais bruta do site, ate os minimos detalhes.
